@@ -1,0 +1,28 @@
+# Interpretable Machine Learning: SHAP Value Analysis for Credit Risk Prediction
+
+This repository contains a detailed report on using SHAP (SHapley Additive exPlanations) to interpret machine learning models for credit risk prediction. The project focuses on building transparent and interpretable models using techniques like Gradient Boosting and Random Forest.
+
+---
+
+##  Report
+
+ [Click here to view the full report](./report.pdf)
+
+The report includes:
+- Model development and methodology
+- SHAP value analysis for global and local feature importance
+- Comparison with other interpretability techniques
+- Insights and recommendations for financial decision-making
+
+---
+
+## Project Highlights
+
+-  Binary classification for credit risk
+-  SHAP-based interpretability
+-  Feature importance visualization
+-  Policy-oriented insights
+
+---
+
+
